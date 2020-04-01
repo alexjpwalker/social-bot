@@ -1,0 +1,35 @@
+C:\Users\HP\AppData\Local\Temporary Projects\WSocialBot\bin\Debug\WSocialBot.exe
+C:\Users\HP\AppData\Local\Temporary Projects\WSocialBot\bin\Debug\WSocialBot.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\WSocialBot\obj\x86\Debug\WSocialBot.ApplicationFrame.resources
+C:\Users\HP\AppData\Local\Temporary Projects\WSocialBot\obj\x86\Debug\WSocialBot.Properties.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\WSocialBot\obj\x86\Debug\WSocialBot.csproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\WSocialBot\obj\x86\Debug\WSocialBot.exe
+C:\Users\HP\AppData\Local\Temporary Projects\WSocialBot\obj\x86\Debug\WSocialBot.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.exe
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.ApplicationFrame.resources
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\bin\Debug\WSocialBot.exe
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\bin\Debug\WSocialBot.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.RenameDialog.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\bin\Debug\WSocialBot.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\bin\Debug\WSocialBot.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.ApplicationFrame.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.RenameDialog.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\bin\Debug\WSocialBot.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\bin\Debug\WSocialBot.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.ApplicationFrame.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.RenameDialog.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Debug\WSocialBot.pdb

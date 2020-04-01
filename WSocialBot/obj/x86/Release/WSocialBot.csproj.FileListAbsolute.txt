@@ -1,0 +1,8 @@
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Release\WSocialBot.ApplicationFrame.resources
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Release\WSocialBot.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Release\WSocialBot.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\bin\Release\WSocialBot.exe
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\bin\Release\WSocialBot.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Release\WSocialBot.exe
+C:\Users\HP\documents\visual studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Release\WSocialBot.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\WSocialBot\WSocialBot\obj\x86\Release\WSocialBot.RenameDialog.resources

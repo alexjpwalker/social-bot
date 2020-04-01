@@ -1,0 +1,52 @@
+﻿WSocialBot Task List
+
+May be updated with new goals as earlier tasks are completed.
+Utility methods and subroutines are not listed as separate tasks.
+
+Key:	COMPLETE - considered complete for now; may require revision if other parts are updated
+		IN PROGRESS - should be revised to continue work
+		NOT STARTED - needs to be implemented in the future
+
+===============================================================
+Fundamental components: (last updated 27-FEB-13)
+
+AI: Chat comprehension		- IN PROGRESS
+>	Reinterpretation		- COMPLETE	
+	>	Conditional scan		- NOT STARTED
+	>	Using wildcards			- NOT STARTED
+>	Input recognition		- IN PROGRESS
+	>	Statements				- IN PROGRESS
+		>	Personal info, mood		- COMPLETE
+		>	Interjections			- IN PROGRESS
+		>	Comments on objects		- IN PROGRESS
+		>	(More...)
+	>	Questions				- NOT STARTED
+		>	Personal info, mood		- NOT STARTED
+		>	Opinions on objects		- NOT STARTED
+		>	General knowledge		- NOT STARTED
+		>	(More...)
+	>	Handling long inputs	- COMPLETE
+	>	Resolving ambiguity		- NOT STARTED
+
+AI: Chat propagation		- IN PROGRESS
+>	Chat creation			- IN PROGRESS
+	>	Initiating chat			- COMPLETE
+	>	Topic generation		- IN PROGRESS
+
+WSocialBot user interface	- IN PROGRESS
+>	Chat options			- IN PROGRESS
+	>	Display style			- COMPLETE
+	>	Bot name				- COMPLETE
+	>	(More...)
+>	General information		- NOT STARTED
+	>	Help topics				- NOT STARTED
+	>	About WSocialBot		- NOT STARTED
+
+Data management				- IN PROGRESS
+>	Read data files			- IN PROGRESS
+	>	Reinterpret table		- COMPLETE
+	>	Keyword list			- COMPLETE
+	>	Bot settings			- COMPLETE
+	>	Application settings	- NOT STARTED
+>	Edit data files			- NOT STARTED
+	>	Application settings	- NOT STARTED

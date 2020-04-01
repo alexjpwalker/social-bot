@@ -1,0 +1,15 @@
+﻿{Greetings} hello; hi; hey; yo; what's up; good morning; good afternoon; good evening;
+{Given Name} i is called; my name is; the name's; my name's; my real name is; my real name's; call i;
+{Force Given Name} i is;
+{Given Place} i live; i is living; my home's; my home is; a place called; a place named; i is based; i come from; i is from;
+{Force Given Place} i is; it is called;
+{Position} in; on; at; inside; outside; under; over; below; above; around; near;
+{Article} a; an; the; some;
+{Other} he; she; it; they;
+{Positive} happy; good; well; nice; great; amazing; awesome; wonderful; excellent; fantastic; brilliant; ok; alright; all right; decent; content; excited; overjoyed;
+{Negative} sad; angry; unhappy; bad; unwell; terrible; horrible; awful; poor; mad; furious; pissed; fucked; miserable; tired; bored; ill; lousy;
+{Neutral} average; normal; standard; so so; indifferent;
+{Emphasis} very; extremely; really; super; exceedingly; amazingly; highly; incredibly;
+{Assertion} actually; really; in fact; definitely; to be honest;
+{Private} not; private; secret; refuse; afraid;
+{Thanks} thanks; thank you; cheers;
